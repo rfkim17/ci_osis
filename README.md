@@ -1,1 +1,1 @@
-# ci_osis
+# ci-osis
